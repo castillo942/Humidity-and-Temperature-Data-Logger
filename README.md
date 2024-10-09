@@ -1,5 +1,5 @@
 # Humidity-and-Temperature-Data-Logger
-Data Logger for Humidity and Temperature
+Data Logger for Humidity and Temperature (ARduino)
 
 Main Hardware Components
 - DFRobot Sht20
